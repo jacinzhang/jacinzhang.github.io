@@ -2,7 +2,8 @@
 title: Hexo 博客搭建 
 date: 2019-04-20 17:52:06
 tags: hexo
-categories: blog
+categories: 杂七杂八
+toc: true
 ---
 周末闲暇之余，重新搭建了 blog，这里记录下，方便以后查阅。
 
@@ -12,8 +13,9 @@ categories: blog
 # hexo 的安装
 hexo 的安装，主要参考官方文档，[传送门](https://hexo.io/zh-cn/)
 # theme 的选择
-[主题](https://hexo.io/themes/)的选择，hexo 安装成功后，默认用的 landscape 主题，不太好看，这里我选择了[clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)这一主题。
-> 如果你的源码文件采用 git 版本控制，然后你的主题采用 `$ git clone https://github.com/klugjo/hexo-theme-clean-blog.git themes/clean-blog`clone的话，clone 完成后，需要进入 `themes/clean-blog`文件夹，删除主题的 `.git` 文件夹，将其加入源码工程的版本控制。
+[主题](https://hexo.io/themes/)的选择，hexo 安装成功后，默认用的 landscape 主题，不太好看，这里我选择了[maupassant](https://github.com/tufu9441/maupassant-hexo)这一主题。maupassant 主题[配置文档](https://www.haomwei.com/technology/maupassant-hexo.html)。
+
+**⚠️ 注意：将 theme 源文件 clone 到 hexo theme 目录下后，删除的 theme 源文件下的 `.git` 文件夹。**
 
 # 环境的配置
 * `_config.yml`
