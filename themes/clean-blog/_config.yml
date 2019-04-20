@@ -34,13 +34,13 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon:
+favicon: /img/favicon.ico
 
 # Social Accounts
-twitter_url:
+twitter_url: https://twitter.com/jacinzhang
 twitter_handle:
-facebook_url:
+facebook_url: https://www.facebook.com/jacinzhang
 github_url: https://github.com/jacinzhang
-gitlab_url:
+gitlab_url: https://gitlab.com/jacinzhang
 linkedin_url:
 mailto:
