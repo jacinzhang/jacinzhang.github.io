@@ -1,5 +1,5 @@
 ---
-title: hexo blog 
+title: Hexo 博客搭建 
 date: 2019-04-20 17:52:06
 tags: hexo
 categories: blog
