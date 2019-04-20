@@ -69,6 +69,6 @@ env:
     global:
         - GH_REF: github.com/jacinzhang/jacinzhang.github.io.git
 ```
-> `${GH_TOKEN` 是刚生成的 **GitHub Person Access Token**，将其配置在 travis ci 的项目环境变量中
+> `${GH_TOKEN}` 是刚生成的 **GitHub Person Access Token**，将其配置在 travis ci 的项目环境变量中
 > `${USER_NAME}` git 提交时用户名，也配置在 travis ci 项目环境变量中
 > `${EMAIL}` git 提交时邮箱，也配置在 travis ci 项目环境变量中
