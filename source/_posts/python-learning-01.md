@@ -5,8 +5,7 @@ date: 2019-04-21 15:28:26
 tags: python
 categories: python
 ---
-
-# Python 基本名词概念
+# 基本名词概念
 
 ## Shebang
 在脚本语言中, 第一行以 `#!` 开头的代码, 在计算机行业中叫做[Shebang](https://zh.wikipedia.org/wiki/Shebang)，其作用是**指定由哪个解释器来执行脚本**。
