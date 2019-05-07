@@ -1,5 +1,5 @@
 ---
-title: 【Python 学习笔记】pyenv 管理 python 版本
+title: 【Python 学习笔记】pyenv 使用
 toc: true
 date: 2019-04-20 19:03:11
 tags: 
@@ -8,25 +8,11 @@ tags:
     - virtualenv
 categories: python
 ---
-# 安装配置 (for macOS users)
-1. [pyenv](https://github.com/pyenv/pyenv)
+# 安装
+[pyenv-installer](https://github.com/pyenv/pyenv-installer)安装<br>
+一键安装命令：
 ```bash
-brew install pyenv
-```
-2. [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
-```bash
-brew install pyenv-virtualenv
-```
-
-`pyenv` 和 `pyenv-virtualenv` 都安装成功后，在 
-```bash
-~/.zshrc #iTerm用户
-~/.bash_profile #Terminal用户
-```
-中添加如下初始化命令
-```bash
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
+curl https://pyenv.run | bash
 ```
 
 # pyenv 使用
