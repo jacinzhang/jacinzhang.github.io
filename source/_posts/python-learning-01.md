@@ -35,3 +35,15 @@ categories: python
 ## 模块
 
 在 python 中，一个 `.py` 文件就称之为一个模块(Module)。 
+
+
+## `if __name__ == '__main__'`
+`__name__` 是当前模块名，当模块被直接运行时模块名为 `__main__`。
+
+
+## import
+
+1. import 用来导入模块的，它可以出现在程序中的任何位置。
+2. `from module import name` 导入指定模块内的指定函数方法
+
+
