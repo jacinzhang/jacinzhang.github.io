@@ -5,7 +5,7 @@ date: 2019-05-18 11:37:31
 tags:
  - iOS
  - recruit
-categories:
+categories: 杂七杂八
 ---
 # 技能要求
 * 熟练掌握组件化架构，MVP，MVVM，MVC，ROUTER，有较强的理解
