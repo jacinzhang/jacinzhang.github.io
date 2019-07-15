@@ -7,6 +7,8 @@ tags:
 categories: python
 ---
 # pip 子命令
+Python 有两个著名的包管理工具 `easy_install` 和 `pip`。`pip` 是 Python 包管理工具，该工具提供了对 Python 包的查找、下载、安装、卸载的功能。
+
 |子命令	|解释说明|
 |---|:---|
 |install|	安装软件包|
