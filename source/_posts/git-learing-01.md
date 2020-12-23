@@ -2,7 +2,7 @@
 title: 【Git 学习笔记】git 命令
 date: 2019-04-22 14:49:59
 tags: git
-categories: 杂七杂八
+categories: 工具
 ---
 
 * 推送所有本地分支到远程 
