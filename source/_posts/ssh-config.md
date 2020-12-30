@@ -5,7 +5,7 @@ date: 2019-07-14 12:23:31
 tags: 
  - SSH 
  - shell
-categories: 
+categories: 网络
 ---
 > 背景：今天配置了 `git` 代理的时候，碰到 `SSH` 方面的一些配置问题，查阅后在此记录下。
 

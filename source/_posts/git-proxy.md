@@ -5,7 +5,7 @@ date: 2019-07-14 16:42:16
 tags: 
  - git
  - proxy
-categories:
+categories: 工具
 ---
 
 git `clone`仓库时有如下两种形式：

@@ -2,7 +2,7 @@
 title: 【博客搭建】Hexo博客搭建 
 date: 2019-04-20 17:52:06
 tags: hexo
-categories: 杂七杂八
+categories: 工具
 toc: true
 ---
 周末闲暇之余，重新搭建了 blog，这里记录下，方便以后查阅。

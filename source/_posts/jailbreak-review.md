@@ -66,3 +66,4 @@ ssh -p 2222 root@127.0.0.1
   针对 iOS10 越狱后无法通过 [SSH 连接](https://zhuanlan.zhihu.com/p/34003393)。
 ## [Apple File Conduit 2](https://cydia.saurik.com/package/com.saurik.afc2d/)
 ## [Filza](https://filza.net/)
+## [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
