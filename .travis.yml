@@ -12,7 +12,9 @@ branches:
 install:
   - npm install
   - npm install -g hexo-cli 
-
+  - npm install -- save-dev hexo-util
+  - npm install hexo-deployer-git --save
+  - npm install hexo-generator-feed --save
 
 #before_script:
  # - npm install -g gulp
