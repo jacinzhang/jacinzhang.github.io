@@ -20,6 +20,7 @@ install:
  # - npm install -g gulp
 
 script:
+  - npm rebuild
   - hexo clean
   - hexo generate
 
